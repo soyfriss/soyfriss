@@ -1,4 +1,4 @@
-## Hello World! I'm Fede 👋
-### Full stack developer | Javascript | React | Node JS
+<h1 align="center">Hello World! I'm Fede 👋</h1>
+<h3 align="center"> Full stack developer | Javascript | React | Node JS</h3>
 
-- 🔭 I’m currently working on developing a system that manages stock. [Go to repo] (https://github.com/soyfriss/gestion-depositos)
+- 🔭 I’m currently working on developing a system to manage stock. [Go to repo] (https://github.com/soyfriss/gestion-depositos)
